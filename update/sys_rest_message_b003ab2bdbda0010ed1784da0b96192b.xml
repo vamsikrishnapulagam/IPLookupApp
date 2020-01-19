@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Information about IP addresses</description>
+        <name>IPInfo</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://ipinfo.io/</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>vamsi</sys_created_by>
+        <sys_created_on>2020-01-18 20:50:46</sys_created_on>
+        <sys_id>b003ab2bdbda0010ed1784da0b96192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPInfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_349455_iplookup">9be2e3a7dbda0010ed1784da0b961937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">9be2e3a7dbda0010ed1784da0b961937</sys_scope>
+        <sys_update_name>sys_rest_message_b003ab2bdbda0010ed1784da0b96192b</sys_update_name>
+        <sys_updated_by>vamsi</sys_updated_by>
+        <sys_updated_on>2020-01-18 20:50:46</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

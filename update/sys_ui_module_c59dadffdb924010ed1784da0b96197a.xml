@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IPAddressInfo">8d9dadffdb924010ed1784da0b961977</application>
+        <filter/>
+        <name>IPAddressInfos</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_349455_iplookup.ipaddressinfo_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>vamsi</sys_created_by>
+        <sys_created_on>2020-01-19 06:55:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c59dadffdb924010ed1784da0b96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPAddressInfos</sys_name>
+        <sys_package display_value="IPLookup" source="x_349455_iplookup">9be2e3a7dbda0010ed1784da0b961937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">9be2e3a7dbda0010ed1784da0b961937</sys_scope>
+        <sys_update_name>sys_ui_module_c59dadffdb924010ed1784da0b96197a</sys_update_name>
+        <sys_updated_by>vamsi</sys_updated_by>
+        <sys_updated_on>2020-01-19 06:55:41</sys_updated_on>
+        <table>x_349455_iplookup_ipaddressinfo</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
